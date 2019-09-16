@@ -3,4 +3,5 @@ Hi! I am Ramesh. I am an Android Developer, actively looking for job. Feel free 
 Email:  rameshgangwar.iitm@gmail.com
 
 ## Contact Information
-[Email] (rameshgangwar.iitm@gmail.com)    [Twitter] (https://twitter.com/misguidedchap)
+[Email](rameshgangwar.iitm@gmail.com)
+[Twitter](https://twitter.com/misguidedchap)
